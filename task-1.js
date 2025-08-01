@@ -6,3 +6,10 @@
 4. console log the final array
  */
 
+const fruits = ['Mango', 'Apple', 'Jackfruit', 'Orange', 'Papaya'];
+
+console.log(fruits[3]);
+
+fruits[2] = 'Jabura';
+
+console.log(fruits);
